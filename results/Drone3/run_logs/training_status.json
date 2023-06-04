@@ -1,0 +1,659 @@
+{
+    "Drone": {
+        "checkpoints": [
+            {
+                "steps": 499841,
+                "file_path": "results\\Drone3\\Drone\\Drone-499841.onnx",
+                "reward": -849.7023826421694,
+                "creation_time": 1685883172.3185425,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-499841.pt"
+                ]
+            },
+            {
+                "steps": 528870,
+                "file_path": "results\\Drone3\\Drone\\Drone-528870.onnx",
+                "reward": -866.0906385484633,
+                "creation_time": 1685883188.5841062,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-528870.pt"
+                ]
+            },
+            {
+                "steps": 999881,
+                "file_path": "results\\Drone3\\Drone\\Drone-999881.onnx",
+                "reward": -885.7060182359484,
+                "creation_time": 1685883637.600481,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-999881.pt"
+                ]
+            },
+            {
+                "steps": 1499828,
+                "file_path": "results\\Drone3\\Drone\\Drone-1499828.onnx",
+                "reward": -787.2342668730637,
+                "creation_time": 1685884015.237891,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-1499828.pt"
+                ]
+            },
+            {
+                "steps": 1999910,
+                "file_path": "results\\Drone3\\Drone\\Drone-1999910.onnx",
+                "reward": -445.5237099040638,
+                "creation_time": 1685884334.3469598,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-1999910.pt"
+                ]
+            },
+            {
+                "steps": 2499864,
+                "file_path": "results\\Drone3\\Drone\\Drone-2499864.onnx",
+                "reward": -460.0769118414985,
+                "creation_time": 1685884602.1772149,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-2499864.pt"
+                ]
+            },
+            {
+                "steps": 2999839,
+                "file_path": "results\\Drone3\\Drone\\Drone-2999839.onnx",
+                "reward": -456.44664764404297,
+                "creation_time": 1685884870.4984956,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-2999839.pt"
+                ]
+            },
+            {
+                "steps": 3499965,
+                "file_path": "results\\Drone3\\Drone\\Drone-3499965.onnx",
+                "reward": -370.4682778676351,
+                "creation_time": 1685885133.525298,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-3499965.pt"
+                ]
+            },
+            {
+                "steps": 3999888,
+                "file_path": "results\\Drone3\\Drone\\Drone-3999888.onnx",
+                "reward": -356.3781318664551,
+                "creation_time": 1685885399.7425897,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-3999888.pt"
+                ]
+            },
+            {
+                "steps": 4499961,
+                "file_path": "results\\Drone3\\Drone\\Drone-4499961.onnx",
+                "reward": -330.2153795030382,
+                "creation_time": 1685885667.751275,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-4499961.pt"
+                ]
+            },
+            {
+                "steps": 4999892,
+                "file_path": "results\\Drone3\\Drone\\Drone-4999892.onnx",
+                "reward": -345.946469200982,
+                "creation_time": 1685885933.870168,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-4999892.pt"
+                ]
+            },
+            {
+                "steps": 5499960,
+                "file_path": "results\\Drone3\\Drone\\Drone-5499960.onnx",
+                "reward": -248.37810985565184,
+                "creation_time": 1685886260.789973,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-5499960.pt"
+                ]
+            },
+            {
+                "steps": 5999974,
+                "file_path": "results\\Drone3\\Drone\\Drone-5999974.onnx",
+                "reward": -248.28060939095238,
+                "creation_time": 1685886526.593481,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-5999974.pt"
+                ]
+            },
+            {
+                "steps": 6499884,
+                "file_path": "results\\Drone3\\Drone\\Drone-6499884.onnx",
+                "reward": -197.72638066609701,
+                "creation_time": 1685886789.9825041,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-6499884.pt"
+                ]
+            },
+            {
+                "steps": 6999921,
+                "file_path": "results\\Drone3\\Drone\\Drone-6999921.onnx",
+                "reward": -190.2390904329261,
+                "creation_time": 1685887055.309082,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-6999921.pt"
+                ]
+            },
+            {
+                "steps": 7499957,
+                "file_path": "results\\Drone3\\Drone\\Drone-7499957.onnx",
+                "reward": -114.65211137135823,
+                "creation_time": 1685887320.0906134,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-7499957.pt"
+                ]
+            },
+            {
+                "steps": 7999933,
+                "file_path": "results\\Drone3\\Drone\\Drone-7999933.onnx",
+                "reward": -124.05676491120282,
+                "creation_time": 1685887586.186123,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-7999933.pt"
+                ]
+            },
+            {
+                "steps": 8499976,
+                "file_path": "results\\Drone3\\Drone\\Drone-8499976.onnx",
+                "reward": 56.44818889230922,
+                "creation_time": 1685887853.1655173,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-8499976.pt"
+                ]
+            },
+            {
+                "steps": 8999797,
+                "file_path": "results\\Drone3\\Drone\\Drone-8999797.onnx",
+                "reward": 182.37954072391287,
+                "creation_time": 1685888210.4238713,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-8999797.pt"
+                ]
+            },
+            {
+                "steps": 9499860,
+                "file_path": "results\\Drone3\\Drone\\Drone-9499860.onnx",
+                "reward": 122.42989195546797,
+                "creation_time": 1685888613.5628474,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-9499860.pt"
+                ]
+            },
+            {
+                "steps": 9999934,
+                "file_path": "results\\Drone3\\Drone\\Drone-9999934.onnx",
+                "reward": 157.2788969039917,
+                "creation_time": 1685889019.8743598,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-9999934.pt"
+                ]
+            },
+            {
+                "steps": 10499939,
+                "file_path": "results\\Drone3\\Drone\\Drone-10499939.onnx",
+                "reward": 187.15544735060797,
+                "creation_time": 1685889423.829525,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-10499939.pt"
+                ]
+            },
+            {
+                "steps": 10999946,
+                "file_path": "results\\Drone3\\Drone\\Drone-10999946.onnx",
+                "reward": 196.98208554585776,
+                "creation_time": 1685889832.490445,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-10999946.pt"
+                ]
+            },
+            {
+                "steps": 11499973,
+                "file_path": "results\\Drone3\\Drone\\Drone-11499973.onnx",
+                "reward": 151.44169368482616,
+                "creation_time": 1685890238.4468875,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-11499973.pt"
+                ]
+            },
+            {
+                "steps": 11999912,
+                "file_path": "results\\Drone3\\Drone\\Drone-11999912.onnx",
+                "reward": 178.60896531997187,
+                "creation_time": 1685890646.178839,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-11999912.pt"
+                ]
+            },
+            {
+                "steps": 12499942,
+                "file_path": "results\\Drone3\\Drone\\Drone-12499942.onnx",
+                "reward": 155.92107989690075,
+                "creation_time": 1685891053.0149455,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-12499942.pt"
+                ]
+            },
+            {
+                "steps": 12999982,
+                "file_path": "results\\Drone3\\Drone\\Drone-12999982.onnx",
+                "reward": -2.4207246568467884,
+                "creation_time": 1685891458.8252447,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-12999982.pt"
+                ]
+            },
+            {
+                "steps": 13499972,
+                "file_path": "results\\Drone3\\Drone\\Drone-13499972.onnx",
+                "reward": 185.14509435602136,
+                "creation_time": 1685891866.8986242,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-13499972.pt"
+                ]
+            },
+            {
+                "steps": 13999924,
+                "file_path": "results\\Drone3\\Drone\\Drone-13999924.onnx",
+                "reward": 212.2904866139094,
+                "creation_time": 1685892276.2310438,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-13999924.pt"
+                ]
+            },
+            {
+                "steps": 14499923,
+                "file_path": "results\\Drone3\\Drone\\Drone-14499923.onnx",
+                "reward": 193.57269196076825,
+                "creation_time": 1685892686.482408,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-14499923.pt"
+                ]
+            },
+            {
+                "steps": 14999939,
+                "file_path": "results\\Drone3\\Drone\\Drone-14999939.onnx",
+                "reward": 93.0806155734592,
+                "creation_time": 1685893096.9633987,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-14999939.pt"
+                ]
+            },
+            {
+                "steps": 15499993,
+                "file_path": "results\\Drone3\\Drone\\Drone-15499993.onnx",
+                "reward": 211.07380237757602,
+                "creation_time": 1685893507.6490102,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-15499993.pt"
+                ]
+            },
+            {
+                "steps": 15999979,
+                "file_path": "results\\Drone3\\Drone\\Drone-15999979.onnx",
+                "reward": 159.86120586395265,
+                "creation_time": 1685893916.7080572,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-15999979.pt"
+                ]
+            },
+            {
+                "steps": 16499928,
+                "file_path": "results\\Drone3\\Drone\\Drone-16499928.onnx",
+                "reward": 276.497075398763,
+                "creation_time": 1685894329.1446903,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-16499928.pt"
+                ]
+            },
+            {
+                "steps": 16999966,
+                "file_path": "results\\Drone3\\Drone\\Drone-16999966.onnx",
+                "reward": 239.35922684389,
+                "creation_time": 1685894736.6980765,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-16999966.pt"
+                ]
+            },
+            {
+                "steps": 17499965,
+                "file_path": "results\\Drone3\\Drone\\Drone-17499965.onnx",
+                "reward": 270.6344799041748,
+                "creation_time": 1685895149.3380075,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-17499965.pt"
+                ]
+            },
+            {
+                "steps": 17999997,
+                "file_path": "results\\Drone3\\Drone\\Drone-17999997.onnx",
+                "reward": 264.2399282766425,
+                "creation_time": 1685895562.5375342,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-17999997.pt"
+                ]
+            },
+            {
+                "steps": 18499875,
+                "file_path": "results\\Drone3\\Drone\\Drone-18499875.onnx",
+                "reward": 172.32182253108306,
+                "creation_time": 1685895974.5216465,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-18499875.pt"
+                ]
+            },
+            {
+                "steps": 18999945,
+                "file_path": "results\\Drone3\\Drone\\Drone-18999945.onnx",
+                "reward": 238.51755937933922,
+                "creation_time": 1685896386.8518703,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-18999945.pt"
+                ]
+            },
+            {
+                "steps": 19499983,
+                "file_path": "results\\Drone3\\Drone\\Drone-19499983.onnx",
+                "reward": 266.3690069007873,
+                "creation_time": 1685896800.7712607,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-19499983.pt"
+                ]
+            },
+            {
+                "steps": 19999941,
+                "file_path": "results\\Drone3\\Drone\\Drone-19999941.onnx",
+                "reward": 183.36349487304688,
+                "creation_time": 1685897213.202592,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-19999941.pt"
+                ]
+            },
+            {
+                "steps": 20499988,
+                "file_path": "results\\Drone3\\Drone\\Drone-20499988.onnx",
+                "reward": 199.52866883064385,
+                "creation_time": 1685897626.460462,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-20499988.pt"
+                ]
+            },
+            {
+                "steps": 20999985,
+                "file_path": "results\\Drone3\\Drone\\Drone-20999985.onnx",
+                "reward": 341.20201110839844,
+                "creation_time": 1685898035.1838295,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-20999985.pt"
+                ]
+            },
+            {
+                "steps": 21499968,
+                "file_path": "results\\Drone3\\Drone\\Drone-21499968.onnx",
+                "reward": 201.56204294074666,
+                "creation_time": 1685898449.8552942,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-21499968.pt"
+                ]
+            },
+            {
+                "steps": 21999926,
+                "file_path": "results\\Drone3\\Drone\\Drone-21999926.onnx",
+                "reward": 233.44902594430107,
+                "creation_time": 1685898862.6579883,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-21999926.pt"
+                ]
+            },
+            {
+                "steps": 22499991,
+                "file_path": "results\\Drone3\\Drone\\Drone-22499991.onnx",
+                "reward": 233.18075962627634,
+                "creation_time": 1685899274.8867831,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-22499991.pt"
+                ]
+            },
+            {
+                "steps": 22999976,
+                "file_path": "results\\Drone3\\Drone\\Drone-22999976.onnx",
+                "reward": 202.02918722516014,
+                "creation_time": 1685899687.9980478,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-22999976.pt"
+                ]
+            },
+            {
+                "steps": 23499980,
+                "file_path": "results\\Drone3\\Drone\\Drone-23499980.onnx",
+                "reward": 176.04519769057487,
+                "creation_time": 1685900104.1296842,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-23499980.pt"
+                ]
+            },
+            {
+                "steps": 23999995,
+                "file_path": "results\\Drone3\\Drone\\Drone-23999995.onnx",
+                "reward": 157.47169514589532,
+                "creation_time": 1685900516.068557,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-23999995.pt"
+                ]
+            },
+            {
+                "steps": 24484631,
+                "file_path": "results\\Drone3\\Drone\\Drone-24484631.onnx",
+                "reward": 299.89266074649873,
+                "creation_time": 1685900897.1443527,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-24484631.pt"
+                ]
+            },
+            {
+                "steps": 24499994,
+                "file_path": "results\\Drone3\\Drone\\Drone-24499994.onnx",
+                "reward": 84.31750928944555,
+                "creation_time": 1685900948.2658908,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-24499994.pt"
+                ]
+            },
+            {
+                "steps": 24999956,
+                "file_path": "results\\Drone3\\Drone\\Drone-24999956.onnx",
+                "reward": -188.82073534452,
+                "creation_time": 1685901399.436711,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-24999956.pt"
+                ]
+            },
+            {
+                "steps": 25499930,
+                "file_path": "results\\Drone3\\Drone\\Drone-25499930.onnx",
+                "reward": -122.51503047537297,
+                "creation_time": 1685901780.5061388,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-25499930.pt"
+                ]
+            },
+            {
+                "steps": 25999990,
+                "file_path": "results\\Drone3\\Drone\\Drone-25999990.onnx",
+                "reward": -76.29941133830859,
+                "creation_time": 1685902161.775728,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-25999990.pt"
+                ]
+            },
+            {
+                "steps": 26499931,
+                "file_path": "results\\Drone3\\Drone\\Drone-26499931.onnx",
+                "reward": -87.22576040854821,
+                "creation_time": 1685902542.1651196,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-26499931.pt"
+                ]
+            },
+            {
+                "steps": 26999982,
+                "file_path": "results\\Drone3\\Drone\\Drone-26999982.onnx",
+                "reward": -98.14480357239212,
+                "creation_time": 1685902923.7795815,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-26999982.pt"
+                ]
+            },
+            {
+                "steps": 27499980,
+                "file_path": "results\\Drone3\\Drone\\Drone-27499980.onnx",
+                "reward": -48.404638799031574,
+                "creation_time": 1685903307.3962204,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-27499980.pt"
+                ]
+            },
+            {
+                "steps": 27999943,
+                "file_path": "results\\Drone3\\Drone\\Drone-27999943.onnx",
+                "reward": -86.90584737878096,
+                "creation_time": 1685904266.1935902,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-27999943.pt"
+                ]
+            },
+            {
+                "steps": 28499999,
+                "file_path": "results\\Drone3\\Drone\\Drone-28499999.onnx",
+                "reward": -85.18689846170359,
+                "creation_time": 1685905178.9777124,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-28499999.pt"
+                ]
+            },
+            {
+                "steps": 28999777,
+                "file_path": "results\\Drone3\\Drone\\Drone-28999777.onnx",
+                "reward": -27.735328231539047,
+                "creation_time": 1685905565.461925,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-28999777.pt"
+                ]
+            },
+            {
+                "steps": 29499998,
+                "file_path": "results\\Drone3\\Drone\\Drone-29499998.onnx",
+                "reward": -18.51475707617673,
+                "creation_time": 1685905952.0508714,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-29499998.pt"
+                ]
+            },
+            {
+                "steps": 29999995,
+                "file_path": "results\\Drone3\\Drone\\Drone-29999995.onnx",
+                "reward": -19.864684572759664,
+                "creation_time": 1685906341.0209293,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-29999995.pt"
+                ]
+            },
+            {
+                "steps": 30499901,
+                "file_path": "results\\Drone3\\Drone\\Drone-30499901.onnx",
+                "reward": -17.061860915543377,
+                "creation_time": 1685906729.3252819,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-30499901.pt"
+                ]
+            },
+            {
+                "steps": 30999039,
+                "file_path": "results\\Drone3\\Drone\\Drone-30999039.onnx",
+                "reward": -29.677878057255466,
+                "creation_time": 1685907276.4082959,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-30999039.pt"
+                ]
+            },
+            {
+                "steps": 31499237,
+                "file_path": "results\\Drone3\\Drone\\Drone-31499237.onnx",
+                "reward": -20.37442977611835,
+                "creation_time": 1685908229.6635842,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-31499237.pt"
+                ]
+            },
+            {
+                "steps": 31999786,
+                "file_path": "results\\Drone3\\Drone\\Drone-31999786.onnx",
+                "reward": -22.36446017622948,
+                "creation_time": 1685909176.6371593,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-31999786.pt"
+                ]
+            },
+            {
+                "steps": 32499297,
+                "file_path": "results\\Drone3\\Drone\\Drone-32499297.onnx",
+                "reward": -17.071784802845546,
+                "creation_time": 1685910127.3563597,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-32499297.pt"
+                ]
+            },
+            {
+                "steps": 32999161,
+                "file_path": "results\\Drone3\\Drone\\Drone-32999161.onnx",
+                "reward": -30.16855572570454,
+                "creation_time": 1685911069.5815058,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-32999161.pt"
+                ]
+            },
+            {
+                "steps": 33499055,
+                "file_path": "results\\Drone3\\Drone\\Drone-33499055.onnx",
+                "reward": -25.839253544807434,
+                "creation_time": 1685912020.2940898,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-33499055.pt"
+                ]
+            },
+            {
+                "steps": 33999975,
+                "file_path": "results\\Drone3\\Drone\\Drone-33999975.onnx",
+                "reward": -286.96706517537433,
+                "creation_time": 1685912965.2542057,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-33999975.pt"
+                ]
+            },
+            {
+                "steps": 34201933,
+                "file_path": "results\\Drone3\\Drone\\Drone-34201933.onnx",
+                "reward": -42.971326075102155,
+                "creation_time": 1685913285.7411458,
+                "auxillary_file_paths": [
+                    "results\\Drone3\\Drone\\Drone-34201933.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 34201933,
+            "file_path": "results\\Drone3\\Drone.onnx",
+            "reward": -42.971326075102155,
+            "creation_time": 1685913285.7411458,
+            "auxillary_file_paths": [
+                "results\\Drone3\\Drone\\Drone-34201933.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
